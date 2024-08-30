@@ -15,9 +15,9 @@
               "state": {
                 "file": "科技树.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 421.3246980661013,
+                  "y": 24.75464135524453,
+                  "zoom": -0.5334804592067067
                 }
               }
             }
@@ -149,7 +149,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "45a4c625612ee5df",
+  "active": "dfd0d1429ac2fce1",
   "lastOpenFiles": [
     "README.md",
     "科技树.canvas"

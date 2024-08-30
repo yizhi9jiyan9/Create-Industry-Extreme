@@ -1,1 +1,10 @@
-{}
+{
+	"nodes":[
+		{"id":"26a46f2011122808","type":"text","text":"阶段3：","x":440,"y":-32,"width":250,"height":100},
+		{"id":"67678b1314e9dcfa","type":"text","text":"阶段2：机械动力开端\n传动杆，水车，溜槽","x":0,"y":-26,"width":250,"height":100,"color":"2"},
+		{"id":"6ec98cc29b72c4ab","type":"text","text":"阶段1：石器时代\n木头，石头，潘马斯农场，农夫乐事","x":-380,"y":-32,"width":250,"height":120}
+	],
+	"edges":[
+		{"id":"1779aae2d7bc6ed7","fromNode":"6ec98cc29b72c4ab","fromSide":"right","toNode":"67678b1314e9dcfa","toSide":"left","label":"安山合金"}
+	]
+}
