@@ -15,9 +15,9 @@
               "state": {
                 "file": "科技树.canvas",
                 "viewState": {
-                  "x": 695.7735852366922,
-                  "y": -328.7762473715491,
-                  "zoom": -1
+                  "x": -27.34090859910366,
+                  "y": 2232.600761076957,
+                  "zoom": 0
                 }
               }
             }
@@ -132,7 +132,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -151,8 +152,8 @@
   },
   "active": "dfd0d1429ac2fce1",
   "lastOpenFiles": [
-    "Pasted image 20240908162003.png",
     "Pasted image 20240908140357.png",
+    "Pasted image 20240908162003.png",
     "科技树.canvas",
     "README.md"
   ]

@@ -15,7 +15,12 @@
 		{"id":"253e9dbe31fe1d8f","type":"text","text":"阶段11：高炉","x":760,"y":24,"width":250,"height":100},
 		{"id":"a52e2d50cd9bcdb7","type":"text","text":"阶段12：钢","x":760,"y":250,"width":250,"height":100},
 		{"id":"fbe6103fc3188a59","type":"text","text":"阶段10：泥土","x":1120,"y":24,"width":250,"height":100},
-		{"id":"27b4de487bb2bbb2","type":"text","text":"阶段13：发电机","x":1120,"y":-240,"width":250,"height":100}
+		{"id":"27b4de487bb2bbb2","type":"text","text":"阶段13：发电机","x":1120,"y":-240,"width":250,"height":100},
+		{"id":"a7416a7357ff9587","type":"text","text":"阶段1：木头，原石","x":-510,"y":2188,"width":250,"height":106},
+		{"id":"38e4174e9d3122ae","type":"text","text":"阶段2：无中生有起步\n","x":-130,"y":2420,"width":250,"height":100},
+		{"id":"11cbec57c318d3c3","type":"text","text":"阶段3：沉浸三大天王(2/3)焦炉&合金窑","x":-130,"y":2188,"width":250,"height":100},
+		{"id":"ea70e6af5f11c44c","type":"text","text":"阶段4：基础合金\n青铜，安山合金，青铜","x":-130,"y":1980,"width":250,"height":100},
+		{"id":"17dbc3a5617cd8b2","type":"text","text":"阶段5：传动杆，齿轮，水车","x":-130,"y":1780,"width":250,"height":100}
 	],
 	"edges":[
 		{"id":"1779aae2d7bc6ed7","fromNode":"6ec98cc29b72c4ab","fromSide":"bottom","toNode":"67678b1314e9dcfa","toSide":"left","label":"木钩&树叶，筛网，锤子"},
@@ -39,6 +44,11 @@
 		{"id":"6689357916b8fcab","fromNode":"253e9dbe31fe1d8f","fromSide":"bottom","toNode":"a52e2d50cd9bcdb7","toSide":"top"},
 		{"id":"2a4647267ee32e9d","fromNode":"253e9dbe31fe1d8f","fromSide":"right","toNode":"fbe6103fc3188a59","toSide":"left","label":"熔渣"},
 		{"id":"61a19ca3a93850c7","fromNode":"67678b1314e9dcfa","fromSide":"right","toNode":"fbe6103fc3188a59","toSide":"bottom"},
-		{"id":"f67c3c90d648ebba","fromNode":"fbe6103fc3188a59","fromSide":"top","toNode":"27b4de487bb2bbb2","toSide":"bottom","label":"生物燃料"}
+		{"id":"f67c3c90d648ebba","fromNode":"fbe6103fc3188a59","fromSide":"top","toNode":"27b4de487bb2bbb2","toSide":"bottom","label":"生物燃料"},
+		{"id":"54d5c5ebcf749115","fromNode":"a7416a7357ff9587","fromSide":"bottom","toNode":"38e4174e9d3122ae","toSide":"left","label":"木钩&树叶，筛网，锤子"},
+		{"id":"8950c7d3a3f19e18","fromNode":"38e4174e9d3122ae","fromSide":"top","toNode":"11cbec57c318d3c3","toSide":"bottom","label":"筛出瓷土&粘土，获得灰烬砖"},
+		{"id":"97efd8ba6a989911","fromNode":"38e4174e9d3122ae","fromSide":"left","toNode":"17dbc3a5617cd8b2","toSide":"left","color":"#545454","label":"杂酚油&防腐木"},
+		{"id":"629140f11a4d087f","fromNode":"11cbec57c318d3c3","fromSide":"top","toNode":"ea70e6af5f11c44c","toSide":"bottom","label":"铜，锡，安山岩"},
+		{"id":"9b8e07865c00a94d","fromNode":"ea70e6af5f11c44c","fromSide":"top","toNode":"17dbc3a5617cd8b2","toSide":"bottom","label":"安山合金"}
 	]
 }
