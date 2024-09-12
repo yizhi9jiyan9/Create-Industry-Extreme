@@ -47,7 +47,7 @@
 		{"id":"f67c3c90d648ebba","fromNode":"fbe6103fc3188a59","fromSide":"top","toNode":"27b4de487bb2bbb2","toSide":"bottom","label":"生物燃料"},
 		{"id":"54d5c5ebcf749115","fromNode":"a7416a7357ff9587","fromSide":"bottom","toNode":"38e4174e9d3122ae","toSide":"left","label":"木钩&树叶，筛网，锤子"},
 		{"id":"8950c7d3a3f19e18","fromNode":"38e4174e9d3122ae","fromSide":"top","toNode":"11cbec57c318d3c3","toSide":"bottom","label":"筛出瓷土&粘土，获得灰烬砖"},
-		{"id":"97efd8ba6a989911","fromNode":"38e4174e9d3122ae","fromSide":"left","toNode":"17dbc3a5617cd8b2","toSide":"left","color":"#545454","label":"杂酚油&防腐木"},
+		{"id":"97efd8ba6a989911","fromNode":"11cbec57c318d3c3","fromSide":"left","toNode":"17dbc3a5617cd8b2","toSide":"left","label":"杂酚油"},
 		{"id":"629140f11a4d087f","fromNode":"11cbec57c318d3c3","fromSide":"top","toNode":"ea70e6af5f11c44c","toSide":"bottom","label":"铜，锡，安山岩"},
 		{"id":"9b8e07865c00a94d","fromNode":"ea70e6af5f11c44c","fromSide":"top","toNode":"17dbc3a5617cd8b2","toSide":"bottom","label":"安山合金"}
 	]

@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2"
+	group: "01B6381671257E21"
+	id: "4B4EC443DDFFAB73"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "章节2：筛矿，了解矿物处理"
+}

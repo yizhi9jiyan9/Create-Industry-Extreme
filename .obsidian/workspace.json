@@ -15,8 +15,8 @@
               "state": {
                 "file": "科技树.canvas",
                 "viewState": {
-                  "x": -27.34090859910366,
-                  "y": 2232.600761076957,
+                  "x": 193.47271538650676,
+                  "y": -10.092946122290357,
                   "zoom": 0
                 }
               }
@@ -152,8 +152,27 @@
   },
   "active": "dfd0d1429ac2fce1",
   "lastOpenFiles": [
-    "Pasted image 20240908140357.png",
-    "Pasted image 20240908162003.png",
+    "client/defaultconfigs/ftbultimine/ftbultimine-server.snbt",
+    "client/defaultconfigs/ftbultimine/ftbultimine-client.snbt",
+    "client/defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt",
+    "client/defaultconfigs/ftbquests/client-config.snbt",
+    "client/defaultconfigs/ftblibrary/ftblibrary-client.snbt",
+    "client/defaultconfigs/ftbultimine",
+    "client/defaultconfigs/ftbxmodcompat",
+    "client/defaultconfigs/ftbquests",
+    "client/defaultconfigs/ftblibrary",
+    "client/defaultconfigs/ftbessentials-server.snbt",
+    "client/defaultconfigs/ceramicbucket-server.toml",
+    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/vz61.png",
+    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/vector45_slot.png",
+    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/vector45.png",
+    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/uzi.png",
+    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/ump45.png",
+    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/type81_x.png",
+    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/udp_9.png",
+    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/tti_g34.png",
+    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/timeless_50.png",
+    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/spr15.png",
     "科技树.canvas",
     "README.md"
   ]
