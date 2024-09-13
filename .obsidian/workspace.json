@@ -15,9 +15,9 @@
               "state": {
                 "file": "科技树.canvas",
                 "viewState": {
-                  "x": 193.47271538650676,
-                  "y": -10.092946122290357,
-                  "zoom": 0
+                  "x": 614.285342379886,
+                  "y": -56.018061071788935,
+                  "zoom": -0.5
                 }
               }
             }
@@ -152,6 +152,7 @@
   },
   "active": "dfd0d1429ac2fce1",
   "lastOpenFiles": [
+    "client.7z",
     "client/defaultconfigs/ftbultimine/ftbultimine-server.snbt",
     "client/defaultconfigs/ftbultimine/ftbultimine-client.snbt",
     "client/defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt",
@@ -162,7 +163,6 @@
     "client/defaultconfigs/ftbquests",
     "client/defaultconfigs/ftblibrary",
     "client/defaultconfigs/ftbessentials-server.snbt",
-    "client/defaultconfigs/ceramicbucket-server.toml",
     "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/vz61.png",
     "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/vector45_slot.png",
     "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/vector45.png",
