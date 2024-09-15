@@ -11,14 +11,11 @@
             "id": "dfd0d1429ac2fce1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "科技树.canvas",
-                "viewState": {
-                  "x": 614.285342379886,
-                  "y": -56.018061071788935,
-                  "zoom": -0.5
-                }
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科技树.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科技树.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科技树.canvas"
+                "file": "README.md"
               }
             }
           }
@@ -152,6 +149,8 @@
   },
   "active": "dfd0d1429ac2fce1",
   "lastOpenFiles": [
+    "科技树.canvas",
+    "README.md",
     "client.7z",
     "client/defaultconfigs/ftbultimine/ftbultimine-server.snbt",
     "client/defaultconfigs/ftbultimine/ftbultimine-client.snbt",
@@ -162,7 +161,6 @@
     "client/defaultconfigs/ftbxmodcompat",
     "client/defaultconfigs/ftbquests",
     "client/defaultconfigs/ftblibrary",
-    "client/defaultconfigs/ftbessentials-server.snbt",
     "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/vz61.png",
     "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/vector45_slot.png",
     "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/vector45.png",
@@ -172,8 +170,6 @@
     "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/udp_9.png",
     "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/tti_g34.png",
     "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/timeless_50.png",
-    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/spr15.png",
-    "科技树.canvas",
-    "README.md"
+    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/spr15.png"
   ]
 }
