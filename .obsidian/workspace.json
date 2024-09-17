@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4827b44ce2af9368",
+        "id": "78abeec2246c7c86",
         "type": "tabs",
         "children": [
           {
-            "id": "dfd0d1429ac2fce1",
+            "id": "ecab957b0c742731",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "科技树.canvas",
-                "viewState": {
-                  "x": 1363.4560921379693,
-                  "y": -47.968420137798944,
-                  "zoom": -2
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科技树.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科技树.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科技树.canvas"
+                "file": "README.md"
               }
             }
           }
@@ -150,10 +147,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dfd0d1429ac2fce1",
+  "active": "ecab957b0c742731",
   "lastOpenFiles": [
-    "README.md",
     "科技树.canvas",
+    "cc-by-image.md",
+    "README.md",
     "client.7z",
     "client/defaultconfigs/ftbultimine/ftbultimine-server.snbt",
     "client/defaultconfigs/ftbultimine/ftbultimine-client.snbt",
