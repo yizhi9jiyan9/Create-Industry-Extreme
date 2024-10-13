@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "科研系统完整版.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "科研系统完整版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "科研系统完整版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "科研系统完整版.md"
               }
             }
           }
@@ -180,8 +180,10 @@
   },
   "active": "4180d40d4995f521",
   "lastOpenFiles": [
-    "LICENSE",
     "科研系统.md",
+    "科研系统完整版.md",
+    "README.md",
+    "LICENSE",
     "assets/科研gui草图1 - 副本.png.0.pdnSave",
     "assets/科研gui草图1 - 副本.png",
     "assets/科研gui草图1.png",
@@ -201,10 +203,8 @@
     "assets/科研机器.json",
     "assets/model.json",
     "assets",
-    "attack/model.json",
     "科技树le.canvas",
     "main.canvas",
-    "README.md",
     "cc-by-image.md"
   ]
 }
