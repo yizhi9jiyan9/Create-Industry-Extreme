@@ -11,15 +11,46 @@
             "id": "ecab957b0c742731",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "科技树le.canvas",
+                "viewState": {
+                  "x": 460.2235568569335,
+                  "y": 2.335224857963567,
+                  "zoom": -0.3634758353621841
+                }
+              }
+            }
+          },
+          {
+            "id": "8054f870a1ee15f7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "main.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "4180d40d4995f521",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "科研系统.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "科研系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "科研系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "科研系统.md"
               }
             }
           }
@@ -147,30 +178,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ecab957b0c742731",
+  "active": "45a4c625612ee5df",
   "lastOpenFiles": [
-    "科技树.canvas",
-    "cc-by-image.md",
+    "assets/科研gui草图1 - 副本.png.0.pdnSave",
+    "assets/科研gui草图1 - 副本.png",
+    "assets/科研gui草图1.png",
+    "assets/科研gui草图.png",
+    "assets/主线红支线蓝.png.0.pdnSave",
+    "assets/主线红支线蓝.png",
+    "assets/科研gui排布.png.0.pdnSave",
+    "assets/按钮.png",
+    "按钮.png",
+    "Sprite-0001 - 副本.png",
+    "assets/科研gui排布.png",
+    "assets/科研gui背景 - 副本.png",
+    "assets/科研gui背景.png",
+    "assets/科研控制器.json",
+    "assets/科研显示器.json",
+    "assets/科研机器 - 副本.json",
+    "assets/科研机器.json",
+    "assets/model.json",
+    "assets",
+    "attack/model.json",
+    "attack",
+    "科技树le.canvas",
+    "main.canvas",
+    "科研系统.md",
     "README.md",
-    "client.7z",
-    "client/defaultconfigs/ftbultimine/ftbultimine-server.snbt",
-    "client/defaultconfigs/ftbultimine/ftbultimine-client.snbt",
-    "client/defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt",
-    "client/defaultconfigs/ftbquests/client-config.snbt",
-    "client/defaultconfigs/ftblibrary/ftblibrary-client.snbt",
-    "client/defaultconfigs/ftbultimine",
-    "client/defaultconfigs/ftbxmodcompat",
-    "client/defaultconfigs/ftbquests",
-    "client/defaultconfigs/ftblibrary",
-    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/vz61.png",
-    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/vector45_slot.png",
-    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/vector45.png",
-    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/uzi.png",
-    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/ump45.png",
-    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/type81_x.png",
-    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/udp_9.png",
-    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/tti_g34.png",
-    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/timeless_50.png",
-    "client/config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/spr15.png"
+    "cc-by-image.md"
   ]
 }
